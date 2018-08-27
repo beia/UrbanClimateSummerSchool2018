@@ -21,6 +21,10 @@ Lectures given at the Urban Climate Summer School 2018 organized by Research Ins
 
 * Create a free account for ArcGIS Developer Program
     * https://developers.arcgis.com/sign-up
+    
+* Optional:
+    * Install PyCharm Community Edtion
+    * Download and install from https://www.jetbrains.com/pycharm/download
 
 * For remote desktop support install one of the following software:
     * Install Anydesk from https://anydesk.com/remote-desktop
