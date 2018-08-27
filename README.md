@@ -10,7 +10,7 @@ Lectures given at the Urban Climate Summer School 2018 organized by Research Ins
 * In a terminal run *conda install -c esri arcgis* to install ArcGIS Pyrhon API
 * Test your install: 
     * In a command line in the folder where you want to start your project run:
-        - jupyter notebook
+        - *jupyter notebook*
      * In the Jupyter Notebook enter the following lines:
         - *from arcgis.gis import GIS*
         - *my_gis = GIS()*
