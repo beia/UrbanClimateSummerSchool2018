@@ -7,7 +7,7 @@ Lectures given at the Urban Climate Summer School 2018 organized by Research Ins
 ## Windows, Linux and macOS are supported
 
 * Install Anaconda https://www.anaconda.com/download
-* In a terminal run conda install -c esri arcgis to install ArcGIS Pyrhon API
+* In a terminal run *conda install -c esri arcgis* to install ArcGIS Pyrhon API
 * Test your install: 
     * In a command line in the folder where you want to start your project run:
         - jupyter notebook
