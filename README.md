@@ -12,8 +12,8 @@ Lectures given at the Urban Climate Summer School 2018 organized by Research Ins
     * In a command line in the folder where you want to start your project run:
         - jupyter notebook
      * In the Jupyter Notebook enter the following lines:
-        - from arcgis.gis import GIS
-        - my_gis = GIS()
-        - my_gis.map()
+        - *from arcgis.gis import GIS*
+        - *my_gis = GIS()*
+        - *my_gis.map()*
         
 * More information are provided at https://developers.arcgis.com/python/guide/install-and-set-up
