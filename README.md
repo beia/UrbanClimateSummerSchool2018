@@ -17,3 +17,7 @@ Lectures given at the Urban Climate Summer School 2018 organized by Research Ins
         - *my_gis.map()*
         
 * More information are provided at https://developers.arcgis.com/python/guide/install-and-set-up
+
+* For remote desktop support install one of the following software:
+    * Install Anydesk from https://anydesk.com/remote-desktop
+    * Install Chrome Remote Desktop from https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp
